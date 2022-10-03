@@ -1,8 +1,8 @@
 # Project 2
 
-Posted: March 1, 2022
+Posted: October 9, 2022
 
-Due: March 18, 2022
+Due: October 26, 2022
 
 In this project you will apply your data wrangling and exploratory data analysis skills to baseball data. In particular, we want to know how well did [Moneyball](https://en.wikipedia.org/wiki/Moneyball_(film)) work for the [Oakland A's](https://en.wikipedia.org/wiki/Oakland_Athletics). Was it worthy of a movie? (I'm sad to say that watching the movie is unlikely to help with completing the project).
 
@@ -181,7 +181,7 @@ What can you learn from this plot compared to the set of plots you looked at in 
 
 ## Extra Credit (15 pts)
 
-The data used in this project is starting to get a bit old. The extra credit is ambitious: Can you create a new sqlite database that has the newest available data (up to 2020)? Explain your method with code and prose, if your explanation is reproducible, you will get the points. In order for a method to be reproducible you must provide code that can access the data online, mangle the data as necessary and the SQL necessary for creating the new sqlite database. Use the prose to describe where you found the data and what steps might be necessary to access that data (account creation/authentication/etc.). Any steps that require human intervention should be clearly described in prose.
+The data used in this project is starting to get a bit old. The extra credit is ambitious: Can you create a new sqlite database that has the newest available data (up to 2019)? Explain your method with code and prose, if your explanation is reproducible, you will get the points. In order for a method to be reproducible you must provide code that can access the data online, mangle the data as necessary and the SQL necessary for creating the new sqlite database. Use the prose to describe where you found the data and what steps might be necessary to access that data (account creation/authentication/etc.). Any steps that require human intervention should be clearly described in prose.
 
 
 ## Submission
